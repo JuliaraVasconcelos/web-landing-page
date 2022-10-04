@@ -1,0 +1,33 @@
+body{
+    font-family: 'Montserrat', sans-serif !important;
+}
+.btn-pink{
+    color: #83498C !important;
+    border: 1px solid #83498C !important;
+}
+.btn-pink:hover {
+    background-color: #83498C !important;
+    color: #fff !important;
+    border: 1px solid #83498C !important;
+}
+.fa-solid, .fa-brands{
+    width: 70px;
+    color: #fff;
+    font-size: 2rem;
+    background-color: #83498C;
+    padding: 10px;
+    border-radius: 5px;
+}
+.tech{
+    width: 400px;
+    height: 5px;
+    background-color:#83498C;
+    border-radius: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+.card-title, .display-4{
+    color: #83498C;
+}
